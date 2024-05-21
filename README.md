@@ -1,7 +1,7 @@
 # shallow_planning_partial_observability
 ## Overview
 
-This repository contains the code and data for the project "Shallow Planning under Partial Observability". The project explores various planning algorithms and their performance in environments with partial observability.
+This repository contains the code for the paper "Shallow Planning under Partial Observability". The code provides multiple experiments to reproduce the results presented in the paper and better understand the impact of partial observability on shallow planning.
 
 ## Files
 
