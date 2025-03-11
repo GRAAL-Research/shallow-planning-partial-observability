@@ -14,7 +14,7 @@ This file lists the Python dependencies required to run the code in this reposit
 
 ## Link to the Article
 
-For a detailed explanation of the methodologies, experiments, and results, please refer to the article associated with this project: Pending, anonymous
+For a detailed explanation of the methodologies, experiments, and results, please refer to the article associated with this project: https://arxiv.org/abs/2407.15820
 
 ## How to Use
 
